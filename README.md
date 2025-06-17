@@ -4,7 +4,7 @@ A lightweight and modular combat practice system for FiveM. built for training, 
 
 ## 💾 Download
 
-[Download Latest Release]()
+[Latest Release](https://github.com/Afterdeathstudio/AD-Practice/releases/tag/release)
 
 ## 🛠️ Supported Frameworks
 
@@ -26,4 +26,4 @@ A lightweight and modular combat practice system for FiveM. built for training, 
 - Easy-to-edit `config.lua` with practice locations and NPC models.
 - Define enemy waves, health, weapons, and special behavior per difficulty.
 
-<p align="center"><strong>© 2025 AfterDeath Studios. All rights reserved.<strong></p>
+<h6 align="center"><strong>© 2025 AfterDeath Studios. All rights reserved.<strong></h6>
