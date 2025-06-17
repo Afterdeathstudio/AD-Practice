@@ -3,7 +3,8 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'TenTypeek'
+author 'AfterDeath'
+description 'Coded by: TenTypeeek'
 version '2.0.0'
 
 shared_script {
